@@ -3,7 +3,7 @@
   "name": "browser-game-crafting-filament",
   "display_name": "Browser Game Crafting Filament",
   "description": "Filament 5 crafting catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\CraftingFilament\\CraftingFilamentServiceProvider",
   "requires": {
